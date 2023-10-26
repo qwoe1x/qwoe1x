@@ -1,6 +1,4 @@
 
-# Hello
-
 ### 💻 Technologies:
 
 <div>
@@ -17,11 +15,7 @@
 ### ⚙️ GitHub statistic:
 
 <table>
-  <tr>
-    <td>
       <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=qwoe1x&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-  </tr>
 </table>
 
 ### [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@qwoe1x)](https://github.com/qwoe1x/github-readme-stats)
